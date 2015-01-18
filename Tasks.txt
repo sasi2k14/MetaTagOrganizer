@@ -1,0 +1,12 @@
+y1. Create base CLI for Date based file renamer (DONE)
+2. Create GUI
+3. Consume file as argument (DONE)
+4. Find exiftool using PATH
+5. Handle file already exists exception (DONE)
+6. Create batch file to copy to Apps Drive (DONE)
+7. Display file progress in CLI
+8. Display Version (DONE)
+9. Check file name to see if it needs to be renamed (DONE?)
+10. Implement JUnit Framework (DONE)
+11. Create an option to recurse folder
+12. Specify a destionation dir (DONE)

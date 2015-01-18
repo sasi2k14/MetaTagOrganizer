@@ -1,0 +1,7 @@
+Move exiftool.exe to PATH
+During exception, file should not be renamed
+Use logging framework
+Provide verbose mode output as option
+Use Executor Threads framework to increase speed
+Provide option to Overwrite destination file
+
